@@ -1,0 +1,9 @@
+# OFPAY code owners.
+# Every PR requires an approving review from at least one of these owners
+# (branch protection: require code owner review).
+# Including all write-access collaborators prevents an owner-authored PR from
+# being blocked by GitHub's rule that you cannot approve your own PR.
+# Keep this file itself owned so the requirement cannot be removed unnoticed.
+
+* @Tazorx7 @elreybash06 @Neequaye279 @flex-yy @albertadams224-arch
+/.github/CODEOWNERS @Tazorx7 @elreybash06 @Neequaye279 @flex-yy @albertadams224-arch
